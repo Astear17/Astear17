@@ -16,25 +16,25 @@
   <p>
     <a href="https://www.youtube.com/@Astear17">
       <img src="https://github.com/Astear17/Astear17/raw/main/ytb.png" alt="YouTube" width="20" height="20" style="vertical-align: middle;">
-      YouTube: @Astear17
+        YouTube: @Astear17
     </a>
   </p>
   <p>
     <a href="https://www.facebook.com/Uma.MoXumXue">
       <img src="https://github.com/Astear17/Astear17/raw/main/fb.png" alt="Facebook" width="20" height="20" style="vertical-align: middle;">
-      Facebook: Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas
+        Facebook: ヾ・astear　ꪮৎཾ.ᐟ
     </a>
   </p>
   <p>
     <a href="https://www.tiktok.com/@hyper_astear.17">
       <img src="https://github.com/Astear17/Astear17/raw/main/tiktok.png" alt="TikTok" width="20" height="20" style="vertical-align: middle;">
-      TikTok: @hyper_astear.17
+        TikTok: @astear.17
     </a>
   </p>
   <p>
-    <a href="https://astear17.github.io">
-      <img src="https://github.com/Astear17/astear17.github.io/raw/main/03583A8D-9731-4EDC-B72D-6773464445BA.jpeg" alt="Website" width="20" height="20" style="vertical-align: middle;">
-      Website: astear17.github.io
+    <a href="https://astear17.sino.tw">
+      <img src="https://github.com/Astear17/astear17.github.io/raw/main/pfp.png" alt="Website" width="20" height="20" style="vertical-align: middle;">
+        Website: astear17.sino.tw
     </a>
   </p>
 </div>
